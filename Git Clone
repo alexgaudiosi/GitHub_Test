@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone is a feature intialised from a repository on github, once you have copied the appropriate link you can then use command line to create a 'cloned' version of it locally on your machine, containing all the files, directories and commit information for you to access separate of the github online version.
