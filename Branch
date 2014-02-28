@@ -1,0 +1,1 @@
+A branch allows you to deviate from the main 'master' code on a given repository. This allows you to divert from the master and to work on specific sections without making changes to the main version of a file. Doing so allows you to make changes independtly and then, if authorised, merge them into the main master braanch when they are ready to be implemented.
