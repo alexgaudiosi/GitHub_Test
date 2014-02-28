@@ -1,1 +1,2 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote can be used when working with another developer on the same work. You would usually upload to your own or the 
+(cont..) 'main' github repository via the 'origin' remote, the upstream remote is an auxillary remote you can also upload to which would push and pull from your fellow developer's github, allowing you both to always been working on the most up to date version, this will be commonly used if you've created a fork on a certain repository.
